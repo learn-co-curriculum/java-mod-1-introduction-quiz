@@ -281,7 +281,7 @@
           "text": "",
           "html": "<p><code>//</code></p>",
           "comments": "",
-          "comments_html": "<p>Not quite. We'll learn what this symbol means in the next section.</p>",
+          "comments_html": "<p>Not quite. This represents a single comment.</p>",
           "weight": 0.0
         },
         {
@@ -299,6 +299,162 @@
           "comments": "",
           "comments_html": "<p>Be sure to study the source for this question. You'll get it next time.</p>",
           "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 304357,
+      "quiz_id": 44703,
+      "quiz_group_id": null,
+      "assessment_question_id": 524949,
+      "position": null,
+      "question_name": "True/False Question",
+      "question_type": "true_false_question",
+      "question_text": "<p>True or False: The following is a valid complete sequence of curly braces:</p>\n\n<p><code>{}{{}{}}</code></p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/java-basic-syntax?module_item_id=533226\">Review the Java Basic Syntax Lesson</a></li></ul><p></p>",
+      "answers": [
+        {
+          "comments": "",
+          "comments_html": "",
+          "text": "True",
+          "weight": 100,
+          "id": 3976
+        },
+        {
+          "comments": "",
+          "comments_html": "",
+          "text": "False",
+          "weight": 0,
+          "id": 5761
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 304358,
+      "quiz_id": 44703,
+      "quiz_group_id": null,
+      "assessment_question_id": 524950,
+      "position": null,
+      "question_name": "True/False Question",
+      "question_type": "true_false_question",
+      "question_text": "<p>True or False: The following is a valid complete sequence of curly braces:</p>\n\n<p><code>{{}{</code></p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/java-basic-syntax?module_item_id=533226\">Review the Java Basic Syntax Lesson</a></li></ul><p></p>",
+      "answers": [
+        {
+          "comments": "",
+          "comments_html": "<p>Not quite. Every open curly brace must have a corresponding close curly brace.</p>",
+          "text": "True",
+          "weight": 0,
+          "id": 9500
+        },
+        {
+          "comments": "",
+          "comments_html": "",
+          "text": "False",
+          "weight": 100,
+          "id": 4569
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 304359,
+      "quiz_id": 44703,
+      "quiz_group_id": null,
+      "assessment_question_id": 524951,
+      "position": null,
+      "question_name": "True/False Question",
+      "question_type": "true_false_question",
+      "question_text": "<p>True or False: The order of an open curly brace and a close curly braces doesn't\nmatter.</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/java-basic-syntax?module_item_id=533226\">Review the Java Basic Syntax Lesson</a></li></ul><p></p>",
+      "answers": [
+        {
+          "comments": "",
+          "comments_html": "<p>Not quite. Every open curly brace must have a corresponding close curly brace.</p>",
+          "text": "True",
+          "weight": 0,
+          "id": 6968
+        },
+        {
+          "comments": "",
+          "comments_html": "",
+          "text": "False",
+          "weight": 100,
+          "id": 3439
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 304360,
+      "quiz_id": 44703,
+      "quiz_group_id": null,
+      "assessment_question_id": 524952,
+      "position": null,
+      "question_name": "True/False Question",
+      "question_type": "true_false_question",
+      "question_text": "<p>True or False: The following line is executed by the compiler and interpreter.</p>\n<div class=\"highlight\"><pre class=\"highlight java\"><code><span class=\"c1\">// This is a comment in Java</span>\n</code></pre></div>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/comments?module_item_id=533227\">Review the Comments Lesson</a></li></ul><p></p>",
+      "answers": [
+        {
+          "comments": "",
+          "comments_html": "<p>Not quite. Comments are statements in Java that are not executed by the\ncompiler and interpreter.</p>",
+          "text": "True",
+          "weight": 0,
+          "id": 8479
+        },
+        {
+          "comments": "",
+          "comments_html": "",
+          "text": "False",
+          "weight": 100,
+          "id": 1840
         }
       ],
       "variables": null,
