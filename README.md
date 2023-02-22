@@ -4,7 +4,7 @@ course_id: 6675
 repo: java-mod-1-introduction-quiz
 ---
 
-# Introduction to Java Quiz
+# Quiz 1 - Introduction to Java
 
 It's time to check your knowledge!
 
