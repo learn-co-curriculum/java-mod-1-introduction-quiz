@@ -14,7 +14,7 @@
     "allowed_attempts": 3,
     "one_question_at_a_time": true,
     "question_count": 7,
-    "points_possible": 7.0,
+    "points_possible": 4.0,
     "cant_go_back": false,
     "access_code": null,
     "ip_filter": null,
@@ -71,7 +71,7 @@
     "only_visible_to_overrides": false,
     "assignment_group_id": 20000,
     "show_correct_answers_last_attempt": true,
-    "version_number": 4,
+    "version_number": 5,
     "has_access_code": false,
     "post_to_sis": false,
     "migration_id": null,
@@ -82,10 +82,10 @@
   },
   "questions": [
     {
-      "id": 303926,
+      "id": 304315,
       "quiz_id": 44703,
       "quiz_group_id": null,
-      "assessment_question_id": 524529,
+      "assessment_question_id": 524813,
       "position": null,
       "question_name": "Multiple Choice Question",
       "question_type": "multiple_choice_question",
@@ -99,7 +99,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/editors-vs-ides?module_item_id=533222\">Review the Editors vs. IDEs Lesson</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 2298,
+          "id": 2353,
           "text": "",
           "html": "<p>I don't know</p>",
           "comments": "",
@@ -107,7 +107,7 @@
           "weight": 0.0
         },
         {
-          "id": 9225,
+          "id": 8979,
           "text": "",
           "html": "<p>Notepad++</p>",
           "comments": "",
@@ -115,7 +115,7 @@
           "weight": 0.0
         },
         {
-          "id": 2324,
+          "id": 3307,
           "text": "",
           "html": "<p>Microsoft Word</p>",
           "comments": "",
@@ -123,7 +123,7 @@
           "weight": 0.0
         },
         {
-          "id": 6143,
+          "id": 5519,
           "text": "",
           "html": "<p>Microsoft Visual Studio Code</p>",
           "comments": "",
@@ -131,7 +131,7 @@
           "weight": 0.0
         },
         {
-          "id": 9292,
+          "id": 8816,
           "text": "",
           "html": "<p>IntelliJ</p>",
           "comments": "",
@@ -147,75 +147,10 @@
       "matching_answer_incorrect_matches": null
     },
     {
-      "id": 303927,
+      "id": 304316,
       "quiz_id": 44703,
       "quiz_group_id": null,
-      "assessment_question_id": 524530,
-      "position": null,
-      "question_name": "Multiple Choice Question",
-      "question_type": "multiple_choice_question",
-      "question_text": "<p>What is the proper way of ending a statement in Java?</p>",
-      "points_possible": 1.0,
-      "correct_comments": "",
-      "incorrect_comments": "",
-      "neutral_comments": "",
-      "correct_comments_html": "",
-      "incorrect_comments_html": "",
-      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/your-first-java-program?module_item_id=533223\">Review the Your First Java Program Lesson</a></li></ul><p></p>",
-      "answers": [
-        {
-          "id": 4686,
-          "text": "",
-          "html": "<p><code>;</code></p>",
-          "comments": "",
-          "comments_html": "<p>Correct! We can end a statement in Java by using a semicolon, <code>;</code></p>",
-          "weight": 100.0
-        },
-        {
-          "id": 8071,
-          "text": "",
-          "html": "<p><code>.</code></p>",
-          "comments": "",
-          "comments_html": "<p>Not quite. You'll get it next time.</p>",
-          "weight": 0.0
-        },
-        {
-          "id": 3969,
-          "text": "",
-          "html": "<p><code>//</code></p>",
-          "comments": "",
-          "comments_html": "<p>Not quite. We'll learn what this symbol means in the next section.</p>",
-          "weight": 0.0
-        },
-        {
-          "id": 6267,
-          "text": "",
-          "html": "<p>No special character</p>",
-          "comments": "",
-          "comments_html": "<p>Not quite. There are only a few exceptions when we wouldn't end a\nstatement with no termination character.</p>",
-          "weight": 0.0
-        },
-        {
-          "id": 7280,
-          "text": "",
-          "html": "<p>I don't know</p>",
-          "comments": "",
-          "comments_html": "<p>Be sure to study the source for this question. You'll get it next time.</p>",
-          "weight": 0.0
-        }
-      ],
-      "variables": null,
-      "formulas": null,
-      "answer_tolerance": null,
-      "formula_decimal_places": null,
-      "matches": null,
-      "matching_answer_incorrect_matches": null
-    },
-    {
-      "id": 303928,
-      "quiz_id": 44703,
-      "quiz_group_id": null,
-      "assessment_question_id": 524531,
+      "assessment_question_id": 524814,
       "position": null,
       "question_name": "Short Answer Question",
       "question_type": "short_answer_question",
@@ -229,7 +164,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/your-first-java-program?module_item_id=533223\">Review the Your First Java Program Lesson</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 1284,
+          "id": 2626,
           "text": "Good afternoon!",
           "comments": "",
           "comments_html": "",
@@ -244,10 +179,10 @@
       "matching_answer_incorrect_matches": null
     },
     {
-      "id": 303929,
+      "id": 304317,
       "quiz_id": 44703,
       "quiz_group_id": null,
-      "assessment_question_id": 524532,
+      "assessment_question_id": 524815,
       "position": null,
       "question_name": "Multiple Choice Question",
       "question_type": "multiple_choice_question",
@@ -261,7 +196,7 @@
       "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/the-compiler-and-the-jvm?module_item_id=533224\">Review The Compiler and the JVM Lesson</a></li></ul><p></p>",
       "answers": [
         {
-          "id": 1712,
+          "id": 761,
           "text": "",
           "html": "<p>compile</p>",
           "comments": "",
@@ -269,7 +204,7 @@
           "weight": 0.0
         },
         {
-          "id": 1877,
+          "id": 1833,
           "text": "",
           "html": "<p>javac</p>",
           "comments": "",
@@ -277,7 +212,7 @@
           "weight": 100.0
         },
         {
-          "id": 7123,
+          "id": 7859,
           "text": "",
           "html": "<p>jvc</p>",
           "comments": "",
@@ -285,7 +220,7 @@
           "weight": 0.0
         },
         {
-          "id": 3207,
+          "id": 3725,
           "text": "",
           "html": "<p>java</p>",
           "comments": "",
@@ -293,11 +228,76 @@
           "weight": 0.0
         },
         {
-          "id": 7764,
+          "id": 7390,
           "text": "",
           "html": "<p>I don't know</p>",
           "comments": "",
           "comments_html": "",
+          "weight": 0.0
+        }
+      ],
+      "variables": null,
+      "formulas": null,
+      "answer_tolerance": null,
+      "formula_decimal_places": null,
+      "matches": null,
+      "matching_answer_incorrect_matches": null
+    },
+    {
+      "id": 304318,
+      "quiz_id": 44703,
+      "quiz_group_id": null,
+      "assessment_question_id": 524816,
+      "position": null,
+      "question_name": "Multiple Choice Question",
+      "question_type": "multiple_choice_question",
+      "question_text": "<p>What is the proper way of ending a statement in Java?</p>",
+      "points_possible": 1.0,
+      "correct_comments": "",
+      "incorrect_comments": "",
+      "neutral_comments": "",
+      "correct_comments_html": "",
+      "incorrect_comments_html": "",
+      "neutral_comments_html": "<p><strong>Source/s:</strong></p><ul><li><a href=\"https://learning.flatironschool.com/courses/6675/pages/your-first-java-program?module_item_id=533223\">Review the Your First Java Program Lesson</a></li></ul><p></p>",
+      "answers": [
+        {
+          "id": 6771,
+          "text": "",
+          "html": "<p><code>;</code></p>",
+          "comments": "",
+          "comments_html": "<p>Correct! We can end a statement in Java by using a semicolon, <code>;</code></p>",
+          "weight": 100.0
+        },
+        {
+          "id": 6614,
+          "text": "",
+          "html": "<p><code>.</code></p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. You'll get it next time.</p>",
+          "weight": 0.0
+        },
+        {
+          "id": 4654,
+          "text": "",
+          "html": "<p><code>//</code></p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. We'll learn what this symbol means in the next section.</p>",
+          "weight": 0.0
+        },
+        {
+          "id": 8370,
+          "text": "",
+          "html": "<p>No special character</p>",
+          "comments": "",
+          "comments_html": "<p>Not quite. There are only a few exceptions when we wouldn't end a\nstatement with no termination character.</p>",
+          "weight": 0.0
+        },
+        {
+          "id": 1054,
+          "text": "",
+          "html": "<p>I don't know</p>",
+          "comments": "",
+          "comments_html": "<p>Be sure to study the source for this question. You'll get it next time.</p>",
           "weight": 0.0
         }
       ],
